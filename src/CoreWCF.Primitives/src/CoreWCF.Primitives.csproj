@@ -4,6 +4,13 @@
     <AssemblyName>CoreWCF.Primitives</AssemblyName>
     <PackageId>CoreWCF.Primitives</PackageId>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <GenerateEmbeddedFilesManifest>True</GenerateEmbeddedFilesManifest>
+    <GenerateAssemblyVersionAttribute>True</GenerateAssemblyVersionAttribute>
+    <GenerateAssemblyInfo>True</GenerateAssemblyInfo>
+    <Version>1.6.11</Version>
+    <AssemblyVersion>1.6.11</AssemblyVersion>
+    <AssemblyFileVersion>1.6.11</AssemblyFileVersion>
+    <FileVersion>1.6.11</FileVersion>    
     <RootNamespace />
   </PropertyGroup>
   <ItemGroup>
