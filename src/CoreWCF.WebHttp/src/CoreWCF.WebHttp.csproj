@@ -5,7 +5,13 @@
     <PackageId>CoreWCF.WebHttp</PackageId>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
     <RootNamespace />
-    <GenerateEmbeddedFilesManifest>true</GenerateEmbeddedFilesManifest>
+    <GenerateEmbeddedFilesManifest>True</GenerateEmbeddedFilesManifest>
+    <GenerateAssemblyVersionAttribute>True</GenerateAssemblyVersionAttribute>
+    <GenerateAssemblyInfo>True</GenerateAssemblyInfo>
+    <Version>1.6.11</Version>
+    <AssemblyVersion>1.6.11</AssemblyVersion>
+    <AssemblyFileVersion>1.6.11</AssemblyFileVersion>
+    <FileVersion>1.6.11</FileVersion>
   </PropertyGroup>
   <ItemGroup>
     <!-- After .NET 6.0 goes EOL, WebUtilities should be updated to 8.0.0 -->
